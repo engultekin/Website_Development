@@ -1,0 +1,19 @@
+body{
+    width: auto;
+    margin: auto;
+}
+
+#c1{
+    text-align: left;
+}
+
+#title1{
+    text-decoration: overline;
+    font-family: Gill Sans, sans-serif;
+}
+
+#title_child1{
+    font-size: 0.7rem;
+    margin-top: -15px;
+}
+
